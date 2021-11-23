@@ -1,3 +1,3 @@
 # RealEstatesMachineLearning
 This is my very first project on Machine learning.
-All pull requests are welcome ( ͡ᵔ ͜ʖ ͡ᵔ)
+All changes and pull requests are welcome ( ͡ᵔ ͜ʖ ͡ᵔ)
